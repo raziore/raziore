@@ -42,3 +42,13 @@ I want you to know that I'm a very casual person, so is my website. When I want 
     Accessed in Baidu statistics.
 
     Add new path "blog" to the website.
+
+-2023.01.03:
+
+    Add new blog p1-about.
+
+-2023.01.05:
+
+    Add new blog p2-zhimg.
+
+    Add blog preview in ../index.html
