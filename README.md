@@ -1,3 +1,5 @@
+# Preface
+
 Fine, I finally decided to write the introduction.(*/ω＼*)
 
 I'm not familiar with the MarkDown language, so the first version I'll paste on directly.
@@ -8,6 +10,13 @@ I'm writing my first blog, and there're already many posts I've decided to write
 
 I want you to know that I'm a very casual person, so is my website. When I want to update it, it is updated. When I don't, (￣_,￣ ).
 
+# What is this
+
+My blog on netlify is linked to this repo for continuous development.[Visit My Blog→](https://ocarno.netlify.app/)
+
+# Notice
+
+I'm on campus and, soon there'll be final exams. This repo won't update frequently recently.
 
 # HISTORY
 
