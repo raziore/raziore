@@ -16,14 +16,17 @@ window.Config = {
   ShowLink: true,
 
   // 导航栏菜单
-  Navi: [
-    {
-      text: 'Homepage',
+  Navi: [{
+      text: 'Ocarno[主站]',
       url: 'https://ocarno.netlify.app/'
     },
     {
       text: 'GitHub',
       url: 'https://github.com/snvike/vike'
+    },
+    {
+      text: 'Vike[副站]',
+      url: 'https://vike.glitch.me/'
     },
   ],
 };
