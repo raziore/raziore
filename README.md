@@ -12,7 +12,7 @@ I want you to know that I'm a very casual person, so is my website. When I want 
 
 # What is this
 
-My blog on netlify is linked to this repo for continuous development.[Visit My Blog→](https://ocarno.netlify.app/)
+My blog on netlify is linked to this repo for continuous development.[Visit My Blog→](https://raziore.netlify.app/)
 
 # Notice
 
