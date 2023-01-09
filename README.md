@@ -71,3 +71,6 @@ I'm on campus and, soon there'll be final exams. This repo won't update frequent
 -2023.01.09:
 
     Renamed as Raziore.
+
+    Optimized structure.
+
