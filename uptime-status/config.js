@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Ocarno',
+  SiteName: 'Raziore',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -17,16 +17,16 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [{
-      text: 'Ocarno[主站]',
-      url: 'https://ocarno.netlify.app/'
+      text: 'Raziore',
+      url: 'https://raziore.netlify.app/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/snvike/vike'
+      url: 'https://github.com/raziore/'
     },
     {
-      text: 'Vike[副站]',
-      url: 'https://vike.glitch.me/'
+      text: 'Raziore Blog',
+      url: 'https://raziore-blog.netlify.app/'
     },
   ],
 };
