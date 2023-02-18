@@ -4,6 +4,8 @@ Fine, I finally decided to write the introduction.(*/ω＼*)
 
 I'm not familiar with the MarkDown language, so the first version I'll paste on directly.
 
+[![raziore's GitHub stats](https://github-readme-stats.vercel.app/api?username=raziore)](https://github.com/raziore/github-readme-stats)
+
 I changed the service provider just one day before(2023.1.2), from Glitch to Netlify, it sped up significantly.
 
 I'm writing my first blog, and there're already many posts I've decided to write.
