@@ -4,7 +4,7 @@ Fine, I finally decided to write the introduction.(*/ω＼*)
 
 I'm not familiar with the MarkDown language, so the first version I'll paste on directly.
 
-[raziore's GitHub stats](https://github-readme-stats.vercel.app/api?username=raziore)
+[![raziore's GitHub stats](https://github-readme-stats.vercel.app/api?username=raziore)](https://github.com/anuraghazra/github-readme-stats)
 
 I changed the service provider just one day before(2023.1.2), from Glitch to Netlify, it sped up significantly.
 
