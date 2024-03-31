@@ -1,28 +1,26 @@
 # Preface
 
-Fine, I finally decided to write the introduction.(*/ω＼*)
-
-I'm not familiar with the MarkDown language, so the first version I'll paste on directly.
-
 [![raziore's GitHub stats](https://github-readme-stats.vercel.app/api?username=raziore)](https://github.com/anuraghazra/github-readme-stats)
 
-I changed the service provider just one day before(2023.1.2), from Glitch to Netlify, it sped up significantly.
+(Updated on Mar.30 2024)
 
-I'm writing my first blog, and there're already many posts I've decided to write.
+I changed the service provider on 2023.1.2, from Glitch to Netlify, it sped up significantly. I guess this is because they are on a update with Fastly. After the update, it sped up again, till now. Anyhow, I decide to use Netlify as my main constructor.
 
-I want you to know that I'm a very casual person, so is my website. When I want to update it, it is updated. When I don't, (￣_,￣ ).
+I'm writing my blogs, and there're already many posts I've decided to write. I'm also on a check for the update of my own personal page.
+
+You really need to know that I'm a very casual person, so is my website. When I want to update it, it is updated. When I don't, (￣_,￣ ). Partially it is becuz my study, but I must confess I'm not eager enough to make it.
 
 # What is this
 
-My blog on netlify is linked to this repo for continuous development.[Visit My Blog→](https://raziore.netlify.app/)
+My blog on netlify is linked to this repo for continuous development.[Visit My Blog→](https://raziore-blog.netlify.app/)
 
 # Notice
 
-I'm on campus and, soon there'll be final exams. This repo won't update frequently recently.
+I'm on campus and I'm in a very important semester for me. This repo won't update frequently for one year.
 
 # HISTORY
 
-(+8)
+(GMT+8)
 
 -2022.12.20:
 
@@ -76,3 +74,6 @@ I'm on campus and, soon there'll be final exams. This repo won't update frequent
 
     Optimized structure.
 
+-2024.03.30:
+
+    
